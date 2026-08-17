@@ -1,0 +1,6 @@
+{
+  "name": "محاذاة (Muhazah)",
+  "description": "منصة لمساعدة طلاب علوم الحاسب والتقنية على ربط المناهج الأكاديمية بالمهارات والممارسات البرمجية الحديثة في سوق العمل.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
